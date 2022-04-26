@@ -13,8 +13,7 @@ It is advised to run the models with the MILP solver CPLEX and NLP solver CONOPT
 \
 Note that the results from the OPF/MOPF classes (voltage magnitudes, angles)
 are all returned in p.u. Please use the bases of these to convert them to SI units. 
-#### Dependencies
-The packages and versions that have been used when testing the models are: \
+#### Dependencies and versions used during testing:
 Pyomo 5.7.3  \
 Pandas 0.25.1 \
 Numpy 1.17.0 \
