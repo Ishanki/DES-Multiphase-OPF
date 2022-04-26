@@ -32,4 +32,4 @@ I. De Mel, O. V. Klymenko, and M. Short, “Complementarity Reformulations for t
 Available: [link to be added].
 
 ## License:
-Copyright (c) 2020, Ishanki De Mel. GPL-3.
+Copyright (c) 2022, Ishanki De Mel. GPL-3.
