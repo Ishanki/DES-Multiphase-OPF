@@ -24,7 +24,7 @@ The original IEEE EU LV Test Case can be found here:
 \
 https://cmte.ieee.org/pes-testfeeders/resources/
 \
-All the input files for the modified test case, which are used in this study, are provided in each foler. 
+All the input files for the modified test case, which is used to test the models, are provided in each folder. 
 
 ## Preprint:
 I. De Mel, O. V. Klymenko, and M. Short, “Complementarity Reformulations for the Optimal Design of Distributed Energy Systems with Multiphase Optimal Power Flow,” Apr. 2022, 
