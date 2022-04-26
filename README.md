@@ -13,6 +13,12 @@ It is advised to run the models with the MILP solver CPLEX and NLP solver CONOPT
 \
 Note that the results from the OPF/MOPF classes (voltage magnitudes, angles)
 are all returned in p.u. Please use the bases of these to convert them to SI units. 
+##### Dependencies
+Pyomo 5.7.3  \
+Pandas 0.25.1 \
+Numpy 1.17.0 \
+Xlrd 1.2.0  \
+
 
 ## Preprint:
 I. De Mel, O. V. Klymenko, and M. Short, “Complementarity Reformulations for the Optimal Design of Distributed Energy Systems with Multiphase Optimal Power Flow,” Apr. 2022, 
