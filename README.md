@@ -19,6 +19,12 @@ Pandas 0.25.1 \
 Numpy 1.17.0 \
 xlrd 1.2.0  
 
+#### Case study:
+The original IEEE EU LV Test Case can be found here: 
+\
+https://cmte.ieee.org/pes-testfeeders/resources/
+\
+All the input files for the modified test case, which are used in this study, are provided in each foler. 
 
 ## Preprint:
 I. De Mel, O. V. Klymenko, and M. Short, “Complementarity Reformulations for the Optimal Design of Distributed Energy Systems with Multiphase Optimal Power Flow,” Apr. 2022, 
