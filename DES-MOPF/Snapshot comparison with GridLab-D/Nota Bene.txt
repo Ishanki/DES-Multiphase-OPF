@@ -1,0 +1,5 @@
+For the 'On Peak' snapshot at t=566, the constraint imposing a voltage upper bound was removed.
+This is indicated in the results file name as "noVUB".
+GridLab-D does not impose such an upper bound in its simulations, and this is evident 
+because voltage magnitudes above the usual network upper bound are recorded in its solution.
+Removing this constraint in the MOPF formulation in this instance facilitates the comparison of solutions. 

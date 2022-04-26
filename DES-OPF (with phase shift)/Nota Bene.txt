@@ -1,0 +1,6 @@
+Please note that the Network files "Network_EULVmod_wtfDY.xlsx" (used here in DES-OPF) 
+and "Network_medmod_wtfDY.xlsx" (used in DES-MOPF) are identical. 
+This has been verified using Spreadsheet Compare.
+Only the names have been changed, so that results files across the two models
+do not have the same names,
+to facilitate comparison of results.
