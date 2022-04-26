@@ -1,9 +1,7 @@
 # DES-Multiphase-OPF
  Optimal design of Distributed Energy Systems (DES) subject to multiphase optimal power flow (MOPF) constraints applicable to distribution networks. A new algorithm with regularised complementarity constraints is used to solve the combined nonconvex problem.
 \
-\
 ## Technical Information
-----------------
 DES-MOPF refers to the combined DES design model with multiphase AC optimal power flow. 
 \
 DES-OPF refers to the combined DES design model with balanced AC optimal power flow. 
@@ -22,7 +20,6 @@ are all returned in p.u. Please use the bases of these to convert them to SI uni
 I. De Mel, O. V. Klymenko, and M. Short, “Complementarity Reformulations for the Optimal Design of Distributed Energy Systems with Multiphase Optimal Power Flow,” Apr. 2022, 
 \
 Available: [link to be added]
-\
 \
 ## License:
 Copyright (c) 2020, Ishanki De Mel. GPL-3.
