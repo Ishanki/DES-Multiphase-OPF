@@ -29,7 +29,7 @@ All the input files for the modified test case, which is used to test the models
 ## Preprint:
 I. De Mel, O. V. Klymenko, and M. Short, “Complementarity Reformulations for the Optimal Design of Distributed Energy Systems with Multiphase Optimal Power Flow,” Apr. 2022, 
 \
-Available: [link to be added].
+Available: https://arxiv.org/abs/2204.12963.
 
 ## License:
 Copyright (c) 2022, Ishanki De Mel. GPL-3.
